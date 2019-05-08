@@ -1,0 +1,29 @@
+{
+  "name": "node-impact",
+  "version": "1.24.0",
+  "description": "node wrapper for Impact JavaScript Game Engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therocco/Impact.git"
+  },
+  "keywords": [
+    "impactjs",
+    "html5",
+    "gamedev",
+    "canvas"
+  ],
+  "author": "therocco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therocco/Impact/issues"
+  },
+  "homepage": "https://github.com/therocco/Impact#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "glob": "^7.1.4"
+  }
+}

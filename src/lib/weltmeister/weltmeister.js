@@ -456,7 +456,7 @@ wm.Weltmeister = ig.Class.extend({
 		var postString = 
 			'path=' + encodeURIComponent( path ) +
 			'&data=' + encodeURIComponent(dataString);
-		
+			
 		var req = $.ajax({
 			url: wm.config.api.save,
 			type: 'POST',
